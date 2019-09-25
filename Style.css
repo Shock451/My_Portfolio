@@ -1,0 +1,214 @@
+    .A1 {
+        background: rgb(0, 0, 0);
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .nav {
+        float: right;
+        margin-top: 0%;
+        padding-right: 10%;
+    }
+    
+    #nav {
+        color: #ffff;
+        margin: 10px;
+        text-decoration: none;
+    }
+    
+    #nav:hover {
+        color: #22e9df;
+    }
+    
+    #nav2 {
+        color: #ffff;
+        margin: 10px;
+        text-decoration: none;
+    }
+    
+    #nav2:hover {
+        color: #22e9df;
+    }
+    
+    #nav3 {
+        color: #ffff;
+        margin: 10px;
+        text-decoration: none;
+    }
+    
+    #nav3:hover {
+        color: #22e9df;
+    }
+    
+    #nav4 {
+        color: #ffff;
+        margin: 10px;
+        text-decoration: none;
+    }
+    
+    #nav4:hover {
+        color: #22e9df;
+    }
+    
+    .S1 {
+        color: darkturquoise;
+        font-family: fantasy;
+    }
+    
+    #ph {
+        color: darkturquoise;
+        margin: 10px;
+        padding-top: 3%
+    }
+    
+    #head {
+        color: rgb(255, 255, 255);
+        margin: 10px;
+        padding-top: 10%;
+    }
+    
+    #para1 {
+        color: rgb(255, 255, 255);
+        text-align: justify;
+        padding: 10px;
+        margin: 10px;
+        font-family: monospace;
+        font-size: 20px;
+    }
+    
+    #but1 {
+        background: #f3f400;
+        border-radius: 10px;
+        border: 1px solid #000000;
+        width: 90px;
+        height: 30px;
+        margin: 10px
+    }
+    
+    .pk1 {
+        width: 50%;
+        float: right;
+        border-radius: 50%
+    }
+    
+    .ba {
+        background-image: url("Images/bgd ab.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+    }
+    
+    #ha {
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        margin-left: 3%;
+        padding-top: 1%
+    }
+    
+    .pa {
+        text-align: justify;
+        margin-left: 3%;
+        padding-top: 1%;
+        margin-right: 50%
+    }
+    
+    .cont {
+        width: 50%;
+        height: 50%;
+        float: right;
+        margin-right: 10%;
+        padding-top: 5%
+    }
+    
+    #hc {
+        padding-top: 5%;
+        text-align: left;
+        margin-left: 10px
+    }
+    
+    #hc1 {
+        padding-top: 5%;
+        text-align: right;
+        margin-right: 10px
+    }
+    
+    .cc {
+        padding-top: 10%
+    }
+    
+    #cc {
+        text-align: center;
+    }
+    
+    .conta {
+        background-image: url("Images/Ridge-Design-Website-Design-Background.jpg");
+        background-repeat: no-repeat;
+    }
+    
+    input {
+        width: 30%;
+        margin-bottom: 15px;
+        height: 50%;
+        box-sizing: border-box;
+        margin-left: 35%;
+        margin-right: 35%;
+        padding-top: 25px;
+    }
+    
+    .boto {
+        width: 90px;
+        height: 45px;
+        background: #22e9df;
+        border-radius: 10px;
+        float: left;
+    }
+    
+    .inp {
+        padding-top: 10%;
+    }
+    
+    #ico {
+        padding-top: 20px;
+        text-align: center;
+        margin-bottom: 2%;
+    }
+    
+    .ico {
+        margin-left: 30%;
+    }
+    
+    .prop {
+        background-image: url("Images/prj.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    #prop {
+        color: #fff;
+    }
+    
+    .pp1 {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 3%;
+        margin-left: 20%;
+    }
+    
+    .pp2 {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 3%;
+        margin-left: 50%;
+    }
+    
+    .pp3 {
+        width: 250px;
+        height: 250px;
+        margin-bottom: 3%;
+        margin-left: 20%;
+    }
+    
+    i {
+        margin: 10px;
+        size: 40px;
+    }
